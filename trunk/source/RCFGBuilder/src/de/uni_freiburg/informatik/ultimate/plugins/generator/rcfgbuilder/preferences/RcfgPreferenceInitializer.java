@@ -89,7 +89,7 @@ public class RcfgPreferenceInitializer extends UltimatePreferenceInitializer {
 	public static final String LABEL_DUMP_UNSAT_CORE_BENCHMARK = "Dump unsat core track benchmark to file";
 	public static final String LABEL_DUMP_MAIN_TRACK_BENCHMARK = "Dump main track benchmark to file";
 	public static final String LABEL_DUMP_PATH = "To the following directory";
-	public static final String DEF_DUMP_PATH = "";
+  public static final String DEF_DUMP_PATH = "/home/jose";
 
 	/**
 	 * @see Statements2TransFormula#mSimplePartialSkolemization
